@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyoo-d&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=22092c&height=180&text=ZYOO-d's%20Git-Records&animation=&fontColor=70a1f0&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=20232a&height=180&text=ZYOO-d's%20Git-Records&animation=&fontColor=70a1f0&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -61,9 +61,8 @@ Here are some ideas to get you started:
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=zyoo-d&bg_color=180,22092c,00000000&title_color=70a1f0&text_color=70a1f0"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyoo-d&layout=compact&bg_color=180,22092c,00000000&title_color=70a1f0&text_color=70a1f0"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=zyoo-d&bg_color=180,20232a,00000000&title_color=70a1f0&text_color=70a1f0"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyoo-d&layout=compact&bg_color=180,20232a,00000000&title_color=70a1f0&text_color=70a1f0"
            /> </div> 
     </div>
-    
-    
+      
