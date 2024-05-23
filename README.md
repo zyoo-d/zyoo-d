@@ -52,9 +52,14 @@ Here are some ideas to get you started:
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyoo-d&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=transparent&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
+
+![VVjD's github stats](https://github.com/zyoo-d/github-stats-transparent/blob/output/generated/languages.svg)
+![Top Langs](https://github.com/zyoo-d/github-stats-transparent/blob/output/generated/overview.svg)
+
+
+
+        
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=zyoo-d&show_icons=true&theme=material-palenight&hide_border=true&bg_color=transparent&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
